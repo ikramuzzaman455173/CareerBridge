@@ -1,8 +1,8 @@
-# Job Portals - MERN Project
+# CareerBridge - MERN Project
 
-![Job Portals](./path/to/your/logo.png)
+<!-- ![CareerBridge](./path/to/your/logo.png) -->
 
-Job Portals is a web application built with the MERN stack (MongoDB, Express, React, Node.js). It allows users to browse and search for job listings, apply for jobs, and manage their job applications.
+CareerBridge is a web application built with the MERN stack (MongoDB, Express, React, Node.js). It allows users to browse and search for job listings, apply for jobs, and manage their job applications.
 
 ## Table of Contents
 
@@ -40,5 +40,5 @@ Before running the project, make sure you have the following installed on your s
 ```bash
 git clone https://github.com/your-username/CareerBridge.git
 cd CareerBridge
-
-#started
+npm install # or yarn add
+```
