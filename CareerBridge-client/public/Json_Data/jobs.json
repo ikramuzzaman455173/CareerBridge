@@ -1,0 +1,102 @@
+[
+    {
+        "Position": "DevOps Engineer",
+        "Category": "Fresher",
+        "Experience": "0-2 years",
+        "Location": "New York, NY, USA",
+        "Deadline": "08/15/2023",
+        "Apply": "APPLY",
+        "Details": "JOB DETAILS",
+        "Job_Type": "Onsite"
+    },
+    {
+        "Position": "Mobile App Developer",
+        "Category": "Experienced",
+        "Experience": "3+ years",
+        "Location": "Los Angeles, California, USA",
+        "Deadline": "09/10/2023",
+        "Apply": "APPLY",
+        "Details": "JOB DETAILS",
+        "Job_Type": "Remote"
+    },
+    {
+        "Position": "Database Administrator",
+        "Category": "Experienced",
+        "Experience": "4+ years",
+        "Location": "Chicago, IL, USA",
+        "Deadline": "07/25/2023",
+        "Apply": "APPLY",
+        "Details": "JOB DETAILS",
+        "Job_Type": "Hybrid"
+    },
+    {
+        "Position": "UI/UX Designer",
+        "Category": "Experienced",
+        "Experience": "0-2 years",
+        "Location": "London, UK",
+        "Deadline": "08/30/2023",
+        "Apply": "APPLY",
+        "Details": "JOB DETAILS",
+        "Job_Type": "Onsite"
+    },
+    {
+        "Position": "Network Engineer",
+        "Category": "Experienced",
+        "Experience": "3-6 years",
+        "Location": "Sydney, Australia",
+        "Deadline": "09/05/2023",
+        "Apply": "APPLY",
+        "Details": "JOB DETAILS",
+        "Job_Type": "Remote"
+    },
+    {
+        "Position": "Content Writer",
+        "Category": "Fresher",
+        "Experience": "0-1 years",
+        "Location": "Toronto, ON, Canada",
+        "Deadline": "07/20/2023",
+        "Apply": "APPLY",
+        "Details": "JOB DETAILS",
+        "Job_Type": "Onsite"
+    },
+    {
+        "Position": "Software Architect",
+        "Category": "Experienced",
+        "Experience": "6+ years",
+        "Location": "Berlin, Germany",
+        "Deadline": "08/10/2023",
+        "Apply": "APPLY",
+        "Details": "JOB DETAILS",
+        "Job_Type": "Hybrid"
+    },
+    {
+        "Position": "Digital Marketing Specialist",
+        "Category": "Experienced",
+        "Experience": "0-2 years",
+        "Location": "Singapore",
+        "Deadline": "07/15/2023",
+        "Apply": "APPLY",
+        "Details": "JOB DETAILS",
+        "Job_Type": "Remote"
+    },
+    {
+        "Position": "Machine Learning Engineer",
+        "Category": "Experienced",
+        "Experience": "3+ years",
+        "Location": "San Jose, CA, USA",
+        "Deadline": "09/03/2023",
+        "Apply": "APPLY",
+        "Details": "JOB DETAILS",
+        "Job_Type": "Onsite"
+    },
+    {
+        "Position": "Sales Manager",
+        "Category": "Experienced",
+        "Experience": "3+ years",
+        "Location": "Tokyo, Japan",
+        "Deadline": "08/25/2023",
+        "Apply": "APPLY",
+        "Details": "JOB DETAILS",
+        "Job_Type": "Hybrid"
+    }
+]
