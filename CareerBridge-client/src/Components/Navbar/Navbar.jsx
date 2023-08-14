@@ -34,7 +34,7 @@ const Navbar = () => {
           <a className="duration-300 justify-center items-center flex text-accent dark:text-secondary hov hover:scale-105 px-3 py-2 text-sm font-semibold" href="/all-job">Find Job</a>
           <a className="duration-300 justify-center items-center flex text-accent dark:text-secondary hov hover:scale-105 px-3 py-2 text-sm font-semibold" href="/blog">Blogs</a>
           <a className="duration-300 justify-center items-center flex text-accent dark:text-secondary hov hover:scale-105 px-3 py-2 text-sm font-semibold" href="/login">Login</a>
-          <a className="duration-300 justify-center items-center flex text-accent dark:text-secondary hov hover:scale-105 px-3 py-2 text-sm font-semibold" href="/registration">Registration</a>
+          <a className="duration-300 justify-center items-center flex text-accent dark:text-secondary hov hover:scale-105 px-3 py-2 text-sm font-semibold" href="/registration">Registrations</a>
         </div>
       </div>
     </div>
