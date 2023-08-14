@@ -43,4 +43,3 @@ const Navbar = () => {
 
 export default Navbar
 
-git add -A && git commit -m 'navbar code ' && git status
