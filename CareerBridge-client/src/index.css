@@ -1,3 +1,13 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Chonburi&family=Inter&family=Merienda&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Chonburi&family=Inter:wght@700&family=Merienda&display=swap'); */
+/* :root{
+    --sajim-color:red;
+    --body-font:'Inter', 'sans-serif'
+} */
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
