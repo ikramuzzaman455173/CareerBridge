@@ -18,8 +18,6 @@ export default function Switcher() {
 				checked={darkSide}
 				onChange={toggleDarkMode}
 				size={20}
-				moonColor="#ffdb3d" // Custom color for moon icon (light mode)
-				sunColor="#f39c12"  // Custom color for sun icon (dark mode)
 			/>
 		</>
 	);
