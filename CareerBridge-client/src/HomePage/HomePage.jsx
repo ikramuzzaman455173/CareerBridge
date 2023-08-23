@@ -5,8 +5,8 @@ const HomePage = () => {
   return (
     <>
       <Container>
-        <div className='text-center font-bold text-blue-400 text-4xl mt-5'>This Is Our Home Page Components 😃</div>
-      <p className='font-bold text-center'>Hello .....</p> 
+        <div className='text-center text-big bor dark-bor font-bold cardbg-light font-lightFont dark:font-darkFont p-5  text-4xl mt-5'>This Is Our Header Page Components 😃</div>
+        <div className='text-center dashed  text-4xl mt-5 text-rootColor dark:text-hoverRootColor'>This Is Our Header Page Components 😃</div>
       </Container>
 
     </>
