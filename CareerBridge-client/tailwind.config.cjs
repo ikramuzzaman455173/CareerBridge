@@ -10,8 +10,6 @@ module.exports = {
         'hoverRootColor': '#2A78A5',
         'darkColor': '#222222',
         'grayColor': '#7C7C7C',
-        'border-color': 'var(--border-color)',
-        'white-text': 'var(--white-text)',
       },
       fontFamily: {
         lightFont: ['Playfair Display', 'serif'],
