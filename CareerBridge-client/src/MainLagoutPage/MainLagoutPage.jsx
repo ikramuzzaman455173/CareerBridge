@@ -5,13 +5,13 @@ import Footer from '../Components/Footer/Footer'
 
 const MainLagoutPage = () => {
   return (
-    <>
+    <div className=''>
       <Navbar/>
       <div className='min-h-[calc(100vh-140px)]'>
       <Outlet></Outlet>
       </div>
       <Footer/>
-    </>
+    </div>
   )
 }
 
