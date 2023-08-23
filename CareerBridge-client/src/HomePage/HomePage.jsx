@@ -5,7 +5,7 @@ const HomePage = () => {
   return (
     <>
       <Container>
-        <div className='text-center font-bold text-blue-400 text-4xl mt-5'>This Text Add Md Sayeed Page Components .😃</div>
+        <div className='text-center font-bold cardbg-light font-lightFont dark:font-darkFont p-5 border-2 text-4xl mt-5'>This Is Our Header Page Components 😃</div>
       </Container>
 
     </>
