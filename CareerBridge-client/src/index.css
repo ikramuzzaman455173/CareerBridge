@@ -1,13 +1,26 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Chonburi&family=Inter&family=Merienda&display=swap'); */
-/* @import url('https://fonts.googleapis.com/css2?family=Chonburi&family=Inter:wght@700&family=Merienda&display=swap'); */
-/* :root{
-    --sajim-color:red;
-    --body-font:'Inter', 'sans-serif'
-} */
-
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 
+
+/* *<===dark light background===>* */
+.light-background{
+  @apply bg-gradient-to-r from-[#e5f7f4] via-[#daeff3] to-[#efffff]
+}
+
+.dark-background{
+  @apply dark:bg-gradient-to-br dark:from-slate-800 dark:to-indigo-800
+}
+
+.cardbg-light{
+  @apply bg-gradient-to-r from-[#e5f7f4] to-[#efffff]
+}
+
+/* *<===custom border styles ===>* */
+/* .bor{
+  @apply border border-2 border-red-500
+}
+.dark-bor{
+  @apply dark:border dark:border-4 dark:border-green-800
+} */
