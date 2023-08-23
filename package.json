@@ -1,0 +1,11 @@
+{
+  "name": "careerbridge",
+  "version": "1.0.0",
+  "description": "<!-- ![CareerBridge](./path/to/your/logo.png) -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
