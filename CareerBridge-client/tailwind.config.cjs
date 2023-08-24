@@ -30,3 +30,4 @@ module.exports = {
   variants: {},
   plugins: [],
 };
+
