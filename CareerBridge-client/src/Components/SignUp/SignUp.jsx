@@ -65,7 +65,7 @@ const SignUp = () => {
                   rel="noopener noreferrer"
                   className="focus:underline hover:underline ms-1"
                 >
-                  Sign In
+                  SignIn
                 </a>
               </Link>
             </p>
