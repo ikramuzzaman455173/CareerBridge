@@ -63,13 +63,7 @@ const Login = () => {
                   <label for="password" className="text-sm">
                     Password
                   </label>
-                  <a
-                    rel="noopener noreferrer"
-                    href="#"
-                    className="text-xs hover:underline dark:text-white"
-                  >
-                    Forgot password?
-                  </a>
+                 
                 </div>
                 <input
                   type="password"
