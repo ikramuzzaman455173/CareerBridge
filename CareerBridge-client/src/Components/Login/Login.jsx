@@ -89,7 +89,7 @@ const Login = () => {
           </form>
           <p className="text text-center dark:text-white mt-5">
             Dont have account?
-            <Link to='login'>
+            <Link to='/signup'>
               <a
                 rel="noopener noreferrer"
                 className="focus:underline hover:underline  ms-1"
