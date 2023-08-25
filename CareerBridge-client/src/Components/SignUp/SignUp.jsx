@@ -77,4 +77,3 @@ const SignUp = () => {
 };
 
 export default SignUp;
-git add -A && git commit -m 'delete forgot password feature' && git status
