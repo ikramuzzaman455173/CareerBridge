@@ -63,13 +63,7 @@ const Login = () => {
                   <label for="password" className="text-sm">
                     Password
                   </label>
-                  <a
-                    rel="noopener noreferrer"
-                    href="#"
-                    className="text-xs hover:underline dark:text-white"
-                  >
-                    Forgot password?
-                  </a>
+                 
                 </div>
                 <input
                   type="password"
@@ -82,7 +76,7 @@ const Login = () => {
             </div>
             <button
               type="button"
-              className="w-full px-8 py-3 font-semibold rounded-md bg-blue-500 dark:bg-blue-200  dark:text-gray-900"
+              className="w-full px-8 py-3 font-semibold rounded-md bg-blue-400 dark:bg-blue-200  dark:text-gray-900"
             >
               Sign in
             </button>
