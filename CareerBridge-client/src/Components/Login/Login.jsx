@@ -91,7 +91,6 @@ const Login = () => {
             Dont have account?
             <Link to='signup'>
               <a
-                href="#"
                 rel="noopener noreferrer"
                 className="focus:underline hover:underline ms-1"
               >
