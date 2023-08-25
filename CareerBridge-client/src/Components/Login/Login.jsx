@@ -5,16 +5,15 @@ const Login = () => {
   return (
     <>
       <div className="flex items-center justify-center my-10">
-        <div className="w-full max-w-md p-4 rounded-md bg-blue-300 dark:bg-blue-600  shadow sm:p-8 text-black dark:text-white">
-          <h2 className="mb-3 text-3xl font-semibold text-center">
+        <div className="w-full max-w-md p-4 rounded-md cardbg-light cardbg-dark shadow sm:p-8 text-darkColor dark:text-colorWhite ">
+          <h2 className="mb-3 text-h2 font-semibold text-center font-lightFont dark:font-darkFont">
             Login to your account
           </h2>
-
           <div className="my-6 space-y-4">
             <button
               aria-label="Login with Google"
               type="button"
-              className="flex items-center justify-center w-full p-4 space-x-4 border rounded-md focus:ri focus:ri dark:border-gray-400 focus:ri"
+              className="flex items-center justify-center w-full p-4 space-x-4 border rounded-md focus:ri focus:ri dark:border-colorWhite focus:ri"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -28,7 +27,7 @@ const Login = () => {
             <button
               aria-label="Login with GitHub"
               role="button"
-              className="flex items-center justify-center w-full p-4 space-x-4 border rounded-md focus:ri focus:ri dark:border-gray-400 focus:ri"
+              className="flex items-center justify-center w-full p-4 space-x-4 border rounded-md focus:ri focus:ri dark:border-colorWhite focus:ri"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -41,9 +40,9 @@ const Login = () => {
             </button>
           </div>
           <div className="flex items-center w-full my-4">
-            <hr className="w-full dark:text-gray-400" />
+            <hr className="w-full dark:text-colorWhite" />
             <p className="px-3 dark:text-white">OR</p>
-            <hr className="w-full dark:text-gray-400" />
+            <hr className="w-full dark:text-colorWhite" />
           </div>
           <form novalidate="" action="" className="space-y-8">
             <div className="space-y-4">
