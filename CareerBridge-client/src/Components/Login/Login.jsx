@@ -5,7 +5,7 @@ const Login = () => {
   return (
     <>
       <div className="flex items-center justify-center my-10">
-        <div className="w-full max-w-md p-4 rounded-md bg-blue-400 dark:bg-blue-600  shadow sm:p-8  dark:text-white">
+        <div className="w-full max-w-md p-4 rounded-md bg-blue-300 dark:bg-blue-600  shadow sm:p-8 text-black dark:text-white">
           <h2 className="mb-3 text-3xl font-semibold text-center">
             Login to your account
           </h2>
