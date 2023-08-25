@@ -49,13 +49,6 @@ const SignUp = () => {
                     placeholder="*****"
                     className="w-full px-3 py-2 border rounded-md dark:border-gray-700 dark:bg-gray-900 "
                   />
-                  <a
-                    rel="noopener noreferrer"
-                    href="#"
-                    className="text-sm hover:underline dark:text-colorWhite flex justify-center font-small pt-3"
-                  >
-                    Forgot password?
-                  </a>
                 </div>
               </div>
               <button
@@ -84,3 +77,4 @@ const SignUp = () => {
 };
 
 export default SignUp;
+git add -A && git commit -m 'delete forgot password feature' && git status
