@@ -92,7 +92,7 @@ const Login = () => {
             <Link to='login'>
               <a
                 rel="noopener noreferrer"
-                className="focus:underline hover:underline ms-1"
+                className="focus:underline hover:underline  ms-1"
               >
                 SignUp
               </a>
@@ -105,4 +105,3 @@ const Login = () => {
 };
 
 export default Login;
-git add -A && git commit -m 'added' && git status
