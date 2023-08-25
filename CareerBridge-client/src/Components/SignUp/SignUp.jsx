@@ -5,9 +5,9 @@ const SignUp = () => {
   return (
     <>
       <>
-        <div className="flex items-center justify-center my-10 font-lightFont dark:font-darkFont ">
-          <div className="w-full max-w-md p-4 rounded-md cardbg-light dark-background shadow sm:p-8 text-darkColor dark:text-colorWhite">
-            <h2 className="mb-3 text-3xl font-semibold text-center">
+        <div className="flex items-center justify-center my-10  ">
+          <div className="w-full max-w-md p-4 rounded-md cardbg-light dark-background shadow sm:p-8 text-darkColor dark:text-colorWhite ">
+            <h2 className="mb-3 text-3xl font-semibold text-center font-lightFont dark:font-darkFont">
               Create Account
             </h2>
             <form novalidate="" action="" className="space-y-8">
