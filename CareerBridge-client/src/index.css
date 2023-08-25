@@ -17,6 +17,10 @@
   @apply bg-gradient-to-r from-[#e5f7f4] to-[#efffff]
 }
 
+.cardbg-dark{
+  @apply bg-gradient-to-r from-[#302E87] to-[#302E87]
+}
+
 /* *<===custom border styles ===>* */
 /* .bor{
   @apply border border-2 border-red-500
@@ -24,3 +28,4 @@
 .dark-bor{
   @apply dark:border dark:border-4 dark:border-green-800
 } */
+
