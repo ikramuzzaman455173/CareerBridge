@@ -1,0 +1,26 @@
+[
+    {
+        "date": "March 25, 2023",
+        "title": "5 Tips For A Successful Job Interview",
+        "details":"if you want to ace your next job interview, make sure to reserach the company beforehand, practice",
+        "image": "https://i.ibb.co/4ttvcdJ/interview.jpg"
+    },
+    {
+        "date":"March 23, 2023",
+        "title": "Networking Tips For Job Seekers",
+        "details":"Networking is a powerful tool for job seekers. Attend industry events and join professional groups ....",
+        "image": "https://i.ibb.co/wrpR8RD/networking.jpg"
+    },
+    {
+        "date":"March 21, 2023",
+        "title": "Tips For Succeeding In A Remote Job",
+        "details":"Working remotely can be a great way to achieve work-life balance, but it requires discipline and go....",
+        "image": "https://i.ibb.co/84VB2f7/remote-job.jpg"
+    },
+    {
+        "date":"March 20, 2023",
+        "title": "How To Choose A Career That Fits",
+        "details": "Choosing a career is a big decision, so it's important to take the time to explore your options and....",
+        "image": "https://i.ibb.co/7JwKWM5/career.jpg"
+    }
+]
