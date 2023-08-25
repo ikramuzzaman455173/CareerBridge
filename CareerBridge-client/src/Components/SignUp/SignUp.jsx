@@ -60,7 +60,7 @@ const SignUp = () => {
             </form>
             <p className="text text-center text-darColor mt-5">
               Already have an account?
-              <Link to="/login">
+              <Link to="/login"> 
                 <a
                   rel="noopener noreferrer"
                   className="focus:underline hover:underline ms-1"
