@@ -89,7 +89,7 @@ const Login = () => {
           </form>
           <p className="text text-center dark:text-white mt-5">
             Dont have account?
-            <Link to='signup'>
+            <Link to='login'>
               <a
                 rel="noopener noreferrer"
                 className="focus:underline hover:underline ms-1"
@@ -105,3 +105,4 @@ const Login = () => {
 };
 
 export default Login;
+git add -A && git commit -m 'added' && git status
