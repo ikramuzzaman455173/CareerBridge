@@ -5,11 +5,10 @@ const Login = () => {
   return (
     <>
       <div className="flex items-center justify-center my-10">
-        <div className="w-full max-w-md p-4 rounded-md bg-blue-300 dark:bg-blue-600  shadow sm:p-8 text-black dark:text-white">
-          <h2 className="mb-3 text-3xl font-semibold text-center">
+        <div className="w-full max-w-md p-4 rounded-md cardbg-light  shadow sm:p-8 text-darkColor dark:text-darkColor ">
+          <h2 className="mb-3 text-3xl font-semibold text-center font-lightFont dark:font-darkFont">
             Login to your account
           </h2>
-
           <div className="my-6 space-y-4">
             <button
               aria-label="Login with Google"
